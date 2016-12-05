@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Admin"
+AuthUserFile "/home/todoscont/.htpasswds/public_html/admingabi/passwd"
+require valid-user

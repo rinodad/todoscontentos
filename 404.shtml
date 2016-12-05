@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="es">
+<head>
+	<meta charset="ISO-8859-1" />
+<TITLE>TODOS CONTENTOS - HUMOR - VIDEOS - CHISTES</TITLE>
+<META HTTP-EQUIV="pragma" CONTENT="no-cache">
+<meta http-equiv="expires" content="0">
+<meta http-equiv="Content-Language" content="es-ve">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+<meta name="Description" content="Todoscontentos.com - Tu sitio de humor">
+<meta name="keywords" content="chistes,humor,videos,bromas,memes,fotos,joda,risa">
+<meta name="classification" content="humor">
+<meta name="page-topic" content="humor, chistes">
+<meta name="robots" content="All">
+<meta name="revisit-after" content="7 days">
+<meta name="author" content="Todos Contentos">
+<meta name="identifier-url" content="www.todoscontentos.com">
+<meta name="distribution" content="Global">
+<meta name="coverage" content="Worldwide">
+<meta name="rating" content="General">
+<meta name="site-language" content="Spanish">
+<meta name="geo.placename" content="Buenos Aires, Argentina">
+<meta name="geo.country" content="AR">
+<meta name="resource-type" content="Document">
+
+	<link rel="stylesheet" href="styles.css" type="text/css" media="screen" />
+	
+</head>
+
+<body>
+ 	
+	 	<div id="wrapper"><!-- #wrapper -->
+
+	<header><!-- header -->
+		<a href="index.php"><img src="images/logo_home.jpg" width="299" height="167" border="0"></a>
+		<img src="images/random_07.jpg" width="629" height="178">
+	</header><!-- end of header -->
+	
+    <nav><!-- top nav -->
+    <div class="menu">
+<? include("menu_princ.php")?>
+    </div>
+	</nav><!-- end of top nav -->
+	 	
+	 		<section id="main"><!-- #main content and sidebar area -->
+	
+<div align="center">
+  
+	
+		<b>
+				<H2> ¡¡UPS!! <br><br>
+					
+					La pagina que estas buscando no existe en todos contentos<br><br>
+				<a href="index.php">Ir a la pagina principal</a>
+					</H2>
+			</b>
+			
+     <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+</div>
+
+</section>
+
+</body>
+</html>

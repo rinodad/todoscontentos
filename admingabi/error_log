@@ -1,0 +1,730 @@
+[08-Jan-2016 17:50:54 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 73
+[10-Jan-2016 05:35:18 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[10-Jan-2016 05:35:18 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 168
+[11-Jan-2016 23:11:08 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 73
+[11-Jan-2016 23:11:08 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[11-Jan-2016 23:11:08 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 168
+[11-Jan-2016 23:12:44 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[11-Jan-2016 23:12:44 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 168
+[12-Jan-2016 02:48:57 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[12-Jan-2016 02:48:57 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 168
+[12-Jan-2016 14:50:05 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 73
+[12-Jan-2016 14:50:05 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[12-Jan-2016 14:50:05 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 168
+[12-Jan-2016 14:50:31 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[12-Jan-2016 14:50:31 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 168
+[12-Jan-2016 14:50:59 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 73
+[13-Jan-2016 12:39:23 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 73
+[13-Jan-2016 12:39:23 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[13-Jan-2016 12:39:23 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 168
+[13-Jan-2016 12:41:48 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[13-Jan-2016 12:41:48 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 168
+[13-Jan-2016 12:42:38 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 73
+[14-Jan-2016 12:58:49 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 73
+[14-Jan-2016 12:58:49 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[14-Jan-2016 12:58:49 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 168
+[15-Jan-2016 23:20:34 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 73
+[15-Jan-2016 23:20:34 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[15-Jan-2016 23:20:34 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 168
+[16-Jan-2016 15:46:16 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 73
+[16-Jan-2016 15:46:16 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[16-Jan-2016 15:46:16 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 168
+[17-Jan-2016 01:14:01 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 73
+[17-Jan-2016 01:14:01 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[17-Jan-2016 01:14:01 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 168
+[17-Jan-2016 01:18:11 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 73
+[17-Jan-2016 01:18:11 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[17-Jan-2016 01:18:11 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 168
+[18-Jan-2016 01:59:50 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 73
+[18-Jan-2016 03:08:26 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 73
+[18-Jan-2016 03:33:24 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 73
+[18-Jan-2016 23:27:08 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 73
+[19-Jan-2016 00:06:05 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 73
+[19-Jan-2016 00:06:05 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[19-Jan-2016 00:06:05 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 168
+[19-Jan-2016 00:14:16 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[19-Jan-2016 00:14:16 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 181
+[19-Jan-2016 00:14:19 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[19-Jan-2016 00:14:19 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 181
+[19-Jan-2016 00:21:22 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 82
+[19-Jan-2016 02:49:42 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[19-Jan-2016 02:49:42 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 197
+[19-Jan-2016 03:41:49 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 91
+[19-Jan-2016 23:01:14 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 118
+[19-Jan-2016 23:01:14 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[19-Jan-2016 23:01:14 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 213
+[19-Jan-2016 23:01:55 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 91
+[19-Jan-2016 23:24:09 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/todoscont/public_html/admingabi/index.php on line 94
+[19-Jan-2016 23:25:46 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/todoscont/public_html/admingabi/index.php on line 94
+[19-Jan-2016 23:25:48 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/todoscont/public_html/admingabi/index.php on line 94
+[19-Jan-2016 23:28:46 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/todoscont/public_html/admingabi/index.php on line 94
+[19-Jan-2016 23:33:30 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/todoscont/public_html/admingabi/index.php on line 94
+[19-Jan-2016 23:34:42 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/todoscont/public_html/admingabi/index.php on line 94
+[19-Jan-2016 23:40:22 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/todoscont/public_html/admingabi/index.php on line 101
+[19-Jan-2016 23:41:42 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/todoscont/public_html/admingabi/index.php on line 101
+[19-Jan-2016 23:42:27 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/todoscont/public_html/admingabi/index.php on line 101
+[19-Jan-2016 23:43:29 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/todoscont/public_html/admingabi/index.php on line 101
+[20-Jan-2016 01:01:18 UTC] PHP Fatal error:  Class 'SimpleImage' not found in /home/todoscont/public_html/admingabi/index.php on line 44
+[20-Jan-2016 01:23:50 UTC] PHP Warning:  include(../inc/abeautifulsite/SimpleImage.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/todoscont/public_html/admingabi/index.php on line 43
+[20-Jan-2016 01:23:50 UTC] PHP Warning:  include(../inc/abeautifulsite/SimpleImage.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/todoscont/public_html/admingabi/index.php on line 43
+[20-Jan-2016 01:23:50 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../inc/abeautifulsite/SimpleImage.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/todoscont/public_html/admingabi/index.php on line 43
+[20-Jan-2016 01:23:50 UTC] PHP Fatal error:  Class 'abeautifulsite\SimpleImage' not found in /home/todoscont/public_html/admingabi/index.php on line 44
+[20-Jan-2016 01:24:39 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 62
+[20-Jan-2016 01:24:39 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 62
+[20-Jan-2016 01:24:39 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[20-Jan-2016 01:25:05 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 62
+[20-Jan-2016 01:25:05 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 62
+[20-Jan-2016 01:25:05 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[20-Jan-2016 01:25:59 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[20-Jan-2016 01:25:59 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[20-Jan-2016 01:25:59 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 178
+[20-Jan-2016 01:26:17 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 91
+[20-Jan-2016 01:32:07 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 62
+[20-Jan-2016 01:32:07 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 62
+[20-Jan-2016 01:32:07 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 87
+[20-Jan-2016 01:37:53 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[20-Jan-2016 01:37:53 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[20-Jan-2016 01:37:53 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[20-Jan-2016 01:39:45 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[20-Jan-2016 01:39:45 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[20-Jan-2016 01:39:45 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 178
+[20-Jan-2016 01:42:04 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index_pub.php on line 61
+[20-Jan-2016 01:42:04 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index_pub.php on line 61
+[20-Jan-2016 01:42:05 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 79
+[20-Jan-2016 01:45:06 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index_pub.php on line 61
+[20-Jan-2016 01:45:06 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index_pub.php on line 61
+[20-Jan-2016 01:45:06 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 79
+[20-Jan-2016 01:45:26 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index_pub.php on line 61
+[20-Jan-2016 01:45:26 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index_pub.php on line 61
+[20-Jan-2016 01:45:26 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 79
+[20-Jan-2016 01:49:30 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index_pub.php on line 63
+[20-Jan-2016 01:49:30 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index_pub.php on line 63
+[20-Jan-2016 01:49:30 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 81
+[20-Jan-2016 01:50:08 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index_pub.php on line 63
+[20-Jan-2016 01:50:08 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index_pub.php on line 63
+[20-Jan-2016 01:50:08 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 81
+[20-Jan-2016 01:52:36 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 81
+[20-Jan-2016 01:58:24 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 81
+[20-Jan-2016 02:02:54 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 81
+[20-Jan-2016 02:21:59 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[20-Jan-2016 02:21:59 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[20-Jan-2016 02:21:59 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[20-Jan-2016 02:21:59 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[20-Jan-2016 02:21:59 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 178
+[20-Jan-2016 02:23:59 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index_pub.php on line 63
+[20-Jan-2016 02:23:59 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index_pub.php on line 63
+[20-Jan-2016 02:23:59 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 81
+[20-Jan-2016 02:42:07 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[20-Jan-2016 02:42:07 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[20-Jan-2016 02:42:07 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 178
+[20-Jan-2016 02:43:37 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index_pub.php on line 63
+[20-Jan-2016 02:43:37 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index_pub.php on line 63
+[20-Jan-2016 02:43:37 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 81
+[20-Jan-2016 02:46:32 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 81
+[20-Jan-2016 02:49:55 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[20-Jan-2016 02:49:55 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[20-Jan-2016 02:49:55 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[20-Jan-2016 02:51:26 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[20-Jan-2016 02:51:26 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[20-Jan-2016 02:51:26 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[20-Jan-2016 02:51:26 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[20-Jan-2016 02:51:26 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 178
+[20-Jan-2016 03:00:19 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[20-Jan-2016 03:00:19 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[20-Jan-2016 03:00:19 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[20-Jan-2016 03:00:55 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[20-Jan-2016 03:00:55 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[20-Jan-2016 03:00:55 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 178
+[20-Jan-2016 03:05:50 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[20-Jan-2016 03:05:50 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 178
+[20-Jan-2016 23:16:36 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[20-Jan-2016 23:16:36 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 178
+[20-Jan-2016 23:42:09 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[20-Jan-2016 23:42:09 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[20-Jan-2016 23:42:09 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[20-Jan-2016 23:42:18 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[20-Jan-2016 23:42:18 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[20-Jan-2016 23:42:18 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 178
+[21-Jan-2016 14:53:40 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[21-Jan-2016 14:53:40 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[21-Jan-2016 14:53:40 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[21-Jan-2016 14:54:01 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[21-Jan-2016 14:54:01 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[21-Jan-2016 14:54:01 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 178
+[21-Jan-2016 14:54:22 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[21-Jan-2016 14:54:22 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 178
+[21-Jan-2016 14:54:36 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[21-Jan-2016 14:54:36 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 178
+[21-Jan-2016 15:03:42 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[21-Jan-2016 15:03:42 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 178
+[21-Jan-2016 16:10:34 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[21-Jan-2016 16:10:34 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 178
+[21-Jan-2016 16:11:55 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index_pub.php on line 63
+[21-Jan-2016 16:11:55 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index_pub.php on line 63
+[21-Jan-2016 16:11:55 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 81
+[22-Jan-2016 03:03:32 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[22-Jan-2016 03:03:32 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[22-Jan-2016 03:03:32 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[22-Jan-2016 03:03:43 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[22-Jan-2016 03:03:43 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[22-Jan-2016 03:03:43 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 178
+[22-Jan-2016 03:04:32 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[22-Jan-2016 03:04:32 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 178
+[22-Jan-2016 14:02:43 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[22-Jan-2016 14:02:43 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 178
+[22-Jan-2016 14:09:34 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[22-Jan-2016 14:09:34 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[22-Jan-2016 14:09:34 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 178
+[22-Jan-2016 14:13:04 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index_pub.php on line 63
+[22-Jan-2016 14:13:04 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index_pub.php on line 63
+[22-Jan-2016 14:13:04 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 81
+[22-Jan-2016 14:13:08 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 81
+[23-Jan-2016 02:54:30 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[23-Jan-2016 02:54:30 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[23-Jan-2016 02:54:30 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[23-Jan-2016 02:54:38 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[23-Jan-2016 02:54:38 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[23-Jan-2016 02:54:38 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 178
+[23-Jan-2016 03:02:54 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 81
+[23-Jan-2016 21:02:49 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[23-Jan-2016 21:02:49 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 178
+[23-Jan-2016 21:02:52 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[23-Jan-2016 21:02:52 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 178
+[23-Jan-2016 21:02:55 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[23-Jan-2016 21:02:55 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 178
+[23-Jan-2016 23:35:02 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[23-Jan-2016 23:35:02 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 178
+[23-Jan-2016 23:38:07 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[23-Jan-2016 23:38:17 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[23-Jan-2016 23:38:17 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[23-Jan-2016 23:38:17 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[23-Jan-2016 23:48:49 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[23-Jan-2016 23:48:49 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[23-Jan-2016 23:48:49 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[25-Jan-2016 01:10:00 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[25-Jan-2016 12:45:07 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[25-Jan-2016 12:45:07 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[25-Jan-2016 12:45:07 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[25-Jan-2016 14:03:29 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[25-Jan-2016 14:03:29 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[25-Jan-2016 14:03:29 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[25-Jan-2016 20:14:59 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[25-Jan-2016 20:14:59 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[25-Jan-2016 20:14:59 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[26-Jan-2016 15:26:58 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[26-Jan-2016 15:26:58 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[26-Jan-2016 15:26:58 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[26-Jan-2016 15:42:14 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[26-Jan-2016 15:42:14 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[26-Jan-2016 15:42:14 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[27-Jan-2016 18:03:54 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[27-Jan-2016 18:03:54 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[27-Jan-2016 18:03:54 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[27-Jan-2016 18:04:26 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[27-Jan-2016 18:14:29 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[27-Jan-2016 18:14:29 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[27-Jan-2016 18:14:29 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[27-Jan-2016 18:41:08 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[27-Jan-2016 18:41:08 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[27-Jan-2016 18:41:08 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[27-Jan-2016 18:45:25 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[27-Jan-2016 18:46:04 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[27-Jan-2016 18:46:04 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[27-Jan-2016 18:46:04 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[27-Jan-2016 18:50:48 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[27-Jan-2016 18:50:48 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[27-Jan-2016 18:50:48 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[27-Jan-2016 23:40:02 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[27-Jan-2016 23:41:58 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[28-Jan-2016 12:39:01 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[28-Jan-2016 12:39:01 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[28-Jan-2016 12:39:01 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[28-Jan-2016 12:46:21 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[28-Jan-2016 12:46:21 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[28-Jan-2016 12:46:21 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[28-Jan-2016 13:00:05 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[28-Jan-2016 13:00:05 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[28-Jan-2016 13:00:05 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[28-Jan-2016 13:00:29 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[28-Jan-2016 13:46:00 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[28-Jan-2016 13:46:00 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[28-Jan-2016 13:46:00 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[28-Jan-2016 13:46:22 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[28-Jan-2016 13:46:22 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[28-Jan-2016 13:46:22 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[28-Jan-2016 13:49:02 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[28-Jan-2016 13:49:02 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[28-Jan-2016 13:49:02 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[28-Jan-2016 13:51:53 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[28-Jan-2016 13:51:53 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[28-Jan-2016 13:51:53 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[28-Jan-2016 13:59:21 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[29-Jan-2016 19:07:18 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[29-Jan-2016 22:52:09 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 81
+[01-Feb-2016 13:36:44 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[01-Feb-2016 13:36:44 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[01-Feb-2016 13:36:44 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[01-Feb-2016 13:39:07 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[01-Feb-2016 13:53:03 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[02-Feb-2016 16:09:30 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[02-Feb-2016 16:26:42 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[02-Feb-2016 16:26:42 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[02-Feb-2016 16:26:42 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[03-Feb-2016 18:26:02 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[03-Feb-2016 18:26:02 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[03-Feb-2016 18:26:02 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[03-Feb-2016 18:27:36 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[03-Feb-2016 18:29:00 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index_pub.php on line 63
+[03-Feb-2016 18:29:00 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index_pub.php on line 63
+[03-Feb-2016 18:29:00 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 81
+[05-Feb-2016 14:30:00 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[05-Feb-2016 14:32:55 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index_pub.php on line 63
+[05-Feb-2016 14:32:55 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index_pub.php on line 63
+[05-Feb-2016 14:32:55 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 81
+[05-Feb-2016 15:25:47 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Feb-2016 15:25:47 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Feb-2016 15:25:47 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[05-Feb-2016 15:26:26 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[05-Feb-2016 15:31:03 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Feb-2016 15:31:03 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Feb-2016 15:31:03 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[10-Feb-2016 14:55:49 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[10-Feb-2016 15:40:37 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[11-Feb-2016 20:28:06 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[11-Feb-2016 20:28:06 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[11-Feb-2016 20:28:06 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[11-Feb-2016 20:45:33 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[14-Feb-2016 16:45:22 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[14-Feb-2016 16:46:57 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[14-Feb-2016 16:48:35 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 81
+[14-Feb-2016 16:49:03 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index_pub.php on line 63
+[14-Feb-2016 16:49:03 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index_pub.php on line 63
+[14-Feb-2016 16:49:03 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 81
+[14-Feb-2016 16:49:30 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 81
+[15-Feb-2016 13:45:34 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[15-Feb-2016 13:45:34 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[15-Feb-2016 13:45:34 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[15-Feb-2016 17:04:27 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[15-Feb-2016 17:06:43 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index_pub.php on line 63
+[15-Feb-2016 17:06:43 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index_pub.php on line 63
+[15-Feb-2016 17:06:43 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 81
+[16-Feb-2016 13:03:01 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[16-Feb-2016 13:03:32 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[16-Feb-2016 13:03:32 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[16-Feb-2016 13:03:32 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[16-Feb-2016 13:27:34 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[16-Feb-2016 13:27:34 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[16-Feb-2016 13:27:34 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[16-Feb-2016 13:29:50 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[16-Feb-2016 18:07:47 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[16-Feb-2016 18:07:47 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[16-Feb-2016 18:07:47 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[16-Feb-2016 18:07:55 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[16-Feb-2016 23:53:34 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[16-Feb-2016 23:53:34 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[16-Feb-2016 23:53:34 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[18-Feb-2016 19:38:37 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[19-Feb-2016 18:07:45 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[19-Feb-2016 18:07:45 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[19-Feb-2016 18:07:45 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[19-Feb-2016 18:08:12 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[23-Feb-2016 12:50:54 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[23-Feb-2016 12:50:54 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[23-Feb-2016 12:50:54 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[23-Feb-2016 12:51:17 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[23-Feb-2016 13:17:35 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[23-Feb-2016 13:19:17 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[23-Feb-2016 13:19:17 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[23-Feb-2016 13:19:17 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[23-Feb-2016 13:19:46 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[24-Feb-2016 03:12:03 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 81
+[24-Feb-2016 03:12:06 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 81
+[24-Feb-2016 03:12:47 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 81
+[24-Feb-2016 15:20:32 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[24-Feb-2016 17:19:27 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[24-Feb-2016 17:19:49 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[24-Feb-2016 17:19:49 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[24-Feb-2016 17:19:49 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[24-Feb-2016 17:19:58 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[25-Feb-2016 13:30:35 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[25-Feb-2016 13:30:35 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[25-Feb-2016 13:30:35 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[25-Feb-2016 13:32:10 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[25-Feb-2016 15:53:34 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[25-Feb-2016 15:53:34 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[25-Feb-2016 15:53:34 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[25-Feb-2016 15:54:20 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 81
+[26-Feb-2016 14:41:41 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[29-Feb-2016 13:26:34 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[29-Feb-2016 13:26:34 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[29-Feb-2016 13:26:34 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[29-Feb-2016 13:26:41 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[29-Feb-2016 13:27:00 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[01-Mar-2016 12:45:22 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[01-Mar-2016 12:45:22 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[01-Mar-2016 12:45:22 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[01-Mar-2016 12:45:31 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[01-Mar-2016 12:48:43 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[01-Mar-2016 12:48:43 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[01-Mar-2016 12:48:43 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[03-Mar-2016 12:52:26 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[03-Mar-2016 12:52:26 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[03-Mar-2016 12:52:26 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[03-Mar-2016 13:44:38 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[03-Mar-2016 13:44:38 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[03-Mar-2016 13:44:38 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[03-Mar-2016 13:44:51 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[03-Mar-2016 13:45:36 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[03-Mar-2016 13:45:36 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[03-Mar-2016 13:45:36 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[03-Mar-2016 13:46:05 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[03-Mar-2016 13:46:05 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[03-Mar-2016 13:46:05 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[03-Mar-2016 13:46:28 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[03-Mar-2016 13:46:28 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[03-Mar-2016 13:46:28 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[03-Mar-2016 13:49:22 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[03-Mar-2016 13:49:22 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[03-Mar-2016 13:49:22 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[03-Mar-2016 13:50:19 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[03-Mar-2016 13:50:19 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[03-Mar-2016 13:50:19 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[03-Mar-2016 13:51:27 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[03-Mar-2016 13:51:27 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[03-Mar-2016 13:51:27 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[03-Mar-2016 13:52:15 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[03-Mar-2016 13:55:37 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[03-Mar-2016 13:55:44 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[04-Mar-2016 17:14:51 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[04-Mar-2016 17:14:59 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[04-Mar-2016 17:15:20 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[06-Mar-2016 06:31:35 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[06-Mar-2016 06:31:35 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[06-Mar-2016 06:31:35 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[06-Mar-2016 06:32:17 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[07-Mar-2016 13:58:42 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[08-Mar-2016 14:13:42 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[09-Mar-2016 20:08:14 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[09-Mar-2016 20:08:14 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[09-Mar-2016 20:08:14 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[09-Mar-2016 20:08:50 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[09-Mar-2016 20:08:50 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[09-Mar-2016 20:08:50 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[09-Mar-2016 20:09:19 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[09-Mar-2016 20:09:19 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[09-Mar-2016 20:09:19 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[09-Mar-2016 20:10:04 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[09-Mar-2016 20:10:04 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[09-Mar-2016 20:10:04 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[09-Mar-2016 20:11:10 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[09-Mar-2016 20:11:10 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[09-Mar-2016 20:11:10 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[09-Mar-2016 20:11:41 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[09-Mar-2016 20:11:41 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[09-Mar-2016 20:11:41 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[09-Mar-2016 20:12:19 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[09-Mar-2016 20:12:19 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[09-Mar-2016 20:12:19 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[09-Mar-2016 20:12:46 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[09-Mar-2016 20:12:46 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[09-Mar-2016 20:12:46 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[09-Mar-2016 20:13:09 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[09-Mar-2016 20:13:09 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[09-Mar-2016 20:13:09 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[09-Mar-2016 20:13:39 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[09-Mar-2016 20:13:39 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[09-Mar-2016 20:13:39 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[09-Mar-2016 20:14:09 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[09-Mar-2016 20:14:09 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[09-Mar-2016 20:14:09 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[09-Mar-2016 20:14:57 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[09-Mar-2016 20:15:10 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[09-Mar-2016 20:25:38 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[11-Mar-2016 13:30:12 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[11-Mar-2016 13:30:21 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[15-Mar-2016 17:32:54 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[15-Mar-2016 17:33:22 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[16-Mar-2016 12:34:17 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[16-Mar-2016 13:48:54 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[18-Mar-2016 15:58:06 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[18-Mar-2016 15:59:54 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 81
+[18-Mar-2016 16:00:55 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 81
+[18-Mar-2016 16:14:41 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Mar-2016 16:14:41 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Mar-2016 16:14:41 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[18-Mar-2016 16:15:16 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[18-Mar-2016 16:15:46 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Mar-2016 16:15:46 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Mar-2016 16:15:46 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[18-Mar-2016 16:17:03 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[18-Mar-2016 16:17:53 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Mar-2016 16:17:53 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Mar-2016 16:17:53 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[18-Mar-2016 16:18:13 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[28-Mar-2016 21:42:00 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[29-Mar-2016 13:06:06 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[29-Mar-2016 13:06:06 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[29-Mar-2016 13:06:06 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[29-Mar-2016 13:30:43 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[31-Mar-2016 15:05:51 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[31-Mar-2016 15:06:01 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[01-Apr-2016 15:09:22 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[04-Apr-2016 17:47:16 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[05-Apr-2016 14:30:22 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Apr-2016 14:30:22 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Apr-2016 14:30:22 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[05-Apr-2016 14:32:21 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[05-Apr-2016 14:51:27 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Apr-2016 14:51:27 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Apr-2016 14:51:27 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[05-Apr-2016 14:51:54 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[05-Apr-2016 14:52:45 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[05-Apr-2016 14:53:15 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Apr-2016 14:53:15 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Apr-2016 14:53:15 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[05-Apr-2016 14:53:31 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Apr-2016 14:53:31 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Apr-2016 14:53:31 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[05-Apr-2016 14:53:44 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[05-Apr-2016 14:54:40 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Apr-2016 14:54:40 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Apr-2016 14:54:40 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[05-Apr-2016 14:55:27 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Apr-2016 14:55:27 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Apr-2016 14:55:27 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[05-Apr-2016 14:56:20 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Apr-2016 14:56:20 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Apr-2016 14:56:20 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[05-Apr-2016 14:56:39 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[05-Apr-2016 14:57:23 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Apr-2016 14:57:23 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Apr-2016 14:57:23 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[05-Apr-2016 14:58:06 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[05-Apr-2016 14:58:21 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Apr-2016 14:58:21 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Apr-2016 14:58:21 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[05-Apr-2016 14:59:56 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Apr-2016 14:59:56 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Apr-2016 14:59:56 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[05-Apr-2016 15:00:19 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Apr-2016 15:00:19 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Apr-2016 15:00:19 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[05-Apr-2016 15:01:59 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Apr-2016 15:01:59 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Apr-2016 15:01:59 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[05-Apr-2016 15:02:18 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Apr-2016 15:02:18 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Apr-2016 15:02:18 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[05-Apr-2016 15:03:23 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Apr-2016 15:03:23 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Apr-2016 15:03:23 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[05-Apr-2016 15:03:47 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Apr-2016 15:03:47 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Apr-2016 15:03:47 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[05-Apr-2016 15:04:01 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[05-Apr-2016 15:04:14 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[05-Apr-2016 15:05:26 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[05-Apr-2016 15:05:53 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[05-Apr-2016 15:06:51 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[05-Apr-2016 16:16:02 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Apr-2016 16:16:02 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[05-Apr-2016 16:16:03 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[05-Apr-2016 16:16:36 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[06-Apr-2016 18:14:45 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[06-Apr-2016 18:15:16 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[07-Apr-2016 19:10:17 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[11-Apr-2016 13:20:51 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[11-Apr-2016 13:21:07 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[12-Apr-2016 18:06:42 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[14-Apr-2016 15:21:26 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[18-Apr-2016 15:52:38 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[18-Apr-2016 15:58:22 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index_pub.php on line 63
+[18-Apr-2016 15:58:22 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index_pub.php on line 63
+[18-Apr-2016 15:58:22 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 81
+[18-Apr-2016 15:59:16 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Apr-2016 15:59:16 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Apr-2016 15:59:16 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[18-Apr-2016 15:59:38 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Apr-2016 15:59:38 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Apr-2016 15:59:38 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[18-Apr-2016 16:00:00 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Apr-2016 16:00:00 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Apr-2016 16:00:00 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[18-Apr-2016 16:00:21 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Apr-2016 16:00:21 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Apr-2016 16:00:21 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[18-Apr-2016 16:00:53 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Apr-2016 16:00:53 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Apr-2016 16:00:53 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[18-Apr-2016 16:01:12 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Apr-2016 16:01:12 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Apr-2016 16:01:12 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[18-Apr-2016 16:01:34 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Apr-2016 16:01:34 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Apr-2016 16:01:34 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[18-Apr-2016 16:01:56 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Apr-2016 16:01:56 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Apr-2016 16:01:56 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[18-Apr-2016 16:02:25 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Apr-2016 16:02:25 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Apr-2016 16:02:25 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[18-Apr-2016 16:02:27 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Apr-2016 16:02:27 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Apr-2016 16:02:27 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[18-Apr-2016 16:02:50 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Apr-2016 16:02:50 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Apr-2016 16:02:50 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[18-Apr-2016 16:03:13 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Apr-2016 16:03:13 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Apr-2016 16:03:13 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[18-Apr-2016 16:03:19 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Apr-2016 16:03:19 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Apr-2016 16:03:19 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[18-Apr-2016 16:04:18 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Apr-2016 16:04:18 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Apr-2016 16:04:18 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[18-Apr-2016 16:06:27 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Apr-2016 16:06:27 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Apr-2016 16:06:27 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[18-Apr-2016 16:07:29 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Apr-2016 16:07:29 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[18-Apr-2016 16:07:29 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[20-Apr-2016 13:28:51 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[20-Apr-2016 13:29:02 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[20-Apr-2016 13:47:13 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[20-Apr-2016 16:51:07 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[20-Apr-2016 16:51:07 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[20-Apr-2016 16:51:07 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[20-Apr-2016 17:49:08 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[20-Apr-2016 17:49:08 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[20-Apr-2016 17:49:08 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[21-Apr-2016 13:29:13 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[21-Apr-2016 13:29:13 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[21-Apr-2016 13:29:13 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[22-Apr-2016 14:22:01 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[22-Apr-2016 14:47:14 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[25-Apr-2016 14:45:06 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[27-Apr-2016 15:21:47 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[27-Apr-2016 15:22:12 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[27-Apr-2016 15:22:12 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[27-Apr-2016 15:22:12 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[27-Apr-2016 15:22:36 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[27-Apr-2016 15:44:16 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index_pub.php on line 81
+[28-Apr-2016 13:21:18 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[28-Apr-2016 13:21:18 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[28-Apr-2016 13:21:18 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[28-Apr-2016 13:21:59 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[29-Apr-2016 17:42:53 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[29-Apr-2016 17:42:53 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[29-Apr-2016 17:42:53 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[29-Apr-2016 17:43:06 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[29-Apr-2016 17:43:06 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[29-Apr-2016 17:43:06 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[29-Apr-2016 17:43:25 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[29-Apr-2016 17:43:25 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[29-Apr-2016 17:43:25 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[29-Apr-2016 17:43:40 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[29-Apr-2016 17:43:40 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[29-Apr-2016 17:43:40 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[29-Apr-2016 17:46:31 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[29-Apr-2016 17:46:31 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[29-Apr-2016 17:46:32 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[29-Apr-2016 17:46:54 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[29-Apr-2016 17:47:02 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[29-Apr-2016 17:47:09 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[01-May-2016 04:16:53 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[01-May-2016 04:16:53 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[01-May-2016 04:16:53 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[03-May-2016 00:58:05 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[03-May-2016 00:58:36 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[04-May-2016 15:01:20 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[06-May-2016 03:03:19 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[06-May-2016 03:03:19 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[06-May-2016 03:03:19 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[09-May-2016 17:01:57 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[09-May-2016 17:02:16 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[10-May-2016 16:48:58 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[10-May-2016 17:19:32 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[10-May-2016 17:19:32 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[10-May-2016 17:19:32 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[10-May-2016 17:19:58 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[10-May-2016 17:19:58 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 178
+[13-May-2016 12:00:34 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[13-May-2016 12:01:12 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[13-May-2016 12:01:12 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[13-May-2016 12:01:12 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[16-May-2016 15:15:26 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[16-May-2016 15:15:35 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[18-May-2016 14:51:19 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[20-May-2016 15:48:01 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[20-May-2016 15:48:01 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[20-May-2016 15:48:01 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[20-May-2016 15:48:14 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[20-May-2016 15:48:14 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[20-May-2016 15:48:14 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[20-May-2016 15:48:27 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[20-May-2016 15:48:27 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[20-May-2016 15:48:27 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[20-May-2016 15:48:38 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[20-May-2016 15:48:38 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[20-May-2016 15:48:38 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[20-May-2016 15:49:02 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[20-May-2016 15:49:02 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[20-May-2016 15:49:02 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[20-May-2016 15:50:12 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[20-May-2016 15:51:01 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[20-May-2016 15:51:27 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[20-May-2016 16:08:53 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[23-May-2016 18:02:24 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[23-May-2016 18:02:34 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[26-May-2016 15:40:33 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[27-May-2016 17:40:08 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[27-May-2016 17:40:08 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[27-May-2016 17:40:08 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[27-May-2016 17:40:35 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[27-May-2016 17:40:35 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[27-May-2016 17:40:35 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[30-May-2016 16:16:20 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[30-May-2016 16:16:28 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[30-May-2016 19:07:11 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[30-May-2016 19:07:11 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[30-May-2016 19:07:11 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[30-May-2016 19:08:07 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[31-May-2016 18:25:56 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[02-Jun-2016 18:12:56 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[03-Jun-2016 03:18:29 UTC] PHP Notice:  Undefined variable: resultArr in /home/todoscont/public_html/inc/posts.class.php on line 105
+[03-Jun-2016 03:18:29 UTC] PHP Notice:  Undefined variable: paginas in /home/todoscont/public_html/admingabi/index.php on line 178
+[03-Jun-2016 03:19:59 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[03-Jun-2016 03:19:59 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[03-Jun-2016 03:19:59 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[03-Jun-2016 03:20:28 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[03-Jun-2016 03:20:28 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[03-Jun-2016 03:20:28 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[03-Jun-2016 03:21:40 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[03-Jun-2016 03:22:23 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[03-Jun-2016 15:26:21 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[06-Jun-2016 17:54:47 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[07-Jun-2016 13:57:24 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[07-Jun-2016 13:57:24 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[07-Jun-2016 13:57:24 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[07-Jun-2016 13:57:48 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[09-Jun-2016 02:00:38 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[09-Jun-2016 02:00:38 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[09-Jun-2016 02:00:38 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[09-Jun-2016 17:44:49 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[09-Jun-2016 17:44:49 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[09-Jun-2016 17:44:49 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[09-Jun-2016 20:21:23 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[12-Jun-2016 17:52:49 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[12-Jun-2016 17:52:49 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[12-Jun-2016 17:52:49 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[13-Jun-2016 02:02:48 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[13-Jun-2016 02:02:48 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[13-Jun-2016 02:02:48 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[13-Jun-2016 18:13:48 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[13-Jun-2016 18:13:52 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[14-Jun-2016 20:48:47 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[15-Jun-2016 17:19:57 UTC] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/todoscont/public_html/admingabi/index.php on line 61
+[15-Jun-2016 17:19:57 UTC] PHP Notice:  Use of undefined constant type - assumed 'type' in /home/todoscont/public_html/admingabi/index.php on line 61
+[15-Jun-2016 17:19:57 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
+[15-Jun-2016 17:20:23 UTC] PHP Notice:  Undefined index: video in /home/todoscont/public_html/admingabi/index.php on line 83
